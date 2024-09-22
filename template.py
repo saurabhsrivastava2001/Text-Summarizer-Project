@@ -26,7 +26,8 @@ list_of_files =[
         "setup.py",
         "reasearch/trials.ipynb",
         "test.py",
-        "push.sh"
+        "push.sh",
+        "notebook_implementation/TS.ipynb"
 ]
 
 for filepath in list_of_files:
