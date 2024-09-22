@@ -20,12 +20,13 @@ list_of_files =[
         "config/config.yaml",
         "param.yamal",
         "app.py",
-        "main.py"
-        "Dockerfile"
+        "main.py",
+        "Dockerfile",
         "requirements.txt",
         "setup.py",
         "reasearch/trials.ipynb",
-        "test.py"
+        "test.py",
+        "push.sh"
 ]
 
 for filepath in list_of_files:
